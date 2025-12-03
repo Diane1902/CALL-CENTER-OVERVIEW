@@ -1,4 +1,5 @@
 📊 Call Center: Channel Effectiveness Dashboard
+<img width="1370" height="772" alt="DASHBOARD OVERVIEW" src="https://github.com/user-attachments/assets/371c469b-221f-4b33-a6b6-fb969e81ae56" />
 This dashboard analyzes how different communication channels performs across multiple U.S regions. It offers a concise summary of customer experience and operational efficiency, helping users quickly understand how each channel contributes to overall service quality.
 The goal of this project is to help stakeholders understand how customers interact with different support channels and identify areas for improving service quality.
 
